@@ -7,11 +7,11 @@
     - เกี่ยวกับการจัดหมวดหมู่ เช่น จัดหมวดหมู่คำ
     - Activation จะเกี่ยวกับตัวเลขที่มีขอบเขตชัดเจน
         - Sigmoid โดยจะใช้กับการวิเคราะห์ว่าใช้หรือไม่ เกิดหรือไม่เกิด
-         - Binary Crossentropy : Binary จะมีค่าแค่ 0 กับ 1
-         - Multi label , multi class
+          - Binary Crossentropy : Binary จะมีค่าแค่ 0 กับ 1
+          - Multi label , multi class
         - Softmax จะเป็นการวิเคราะห์โดย output ทั้งหมดรวมกันจะได้ 1 แนวเดียวกับ Sigmoid แต่จะเห็นเป็นอัตราหรือ % แบบชัดเจน
-         - Sparse_categorical_crossentropy
-         - Multi class
+          - Sparse_categorical_crossentropy
+          - Multi class
         - ช่วงดูตามรูปในส่วนของ Range
     - Loss
         - Binary Crossentropy
