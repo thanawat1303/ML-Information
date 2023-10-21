@@ -21,3 +21,5 @@
      - ช่วงดูตามรูปในส่วนของ Range
    - Loss
      - Mean Squared Error
+
+![Alt text](image/image.png)
