@@ -1,8 +1,8 @@
 # ML-Information
 
 <detail>
-    <summary></summary>
-    ปัญหา Classification 
+    <summary>การเลือกใช้ตามปัญหาที่ต้องการ</summary>
+     - ปัญหา Classification 
         - เกี่ยวกับการจัดหมวดหมู่ เช่น จัดหมวดหมู่คำ
         - Activation จะเกี่ยวกับตัวเลขที่มีขอบเขตชัดเจน
             - Sigmoid โดยจะใช้กับการวิเคราะห์ว่าใช้หรือไม่ เกิดหรือไม่เกิด
@@ -27,5 +27,4 @@
 
  ![Alt text](image/image.png)
 </detail>
-- การเลือกใช้ตามปัญหาที่ต้องการ
   
