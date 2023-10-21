@@ -1,6 +1,6 @@
 # ML-Information
 
-<detail>
+<details>
     <summary>การเลือกใช้ตามปัญหาที่ต้องการ</summary>
      - ปัญหา Classification 
         - เกี่ยวกับการจัดหมวดหมู่ เช่น จัดหมวดหมู่คำ
@@ -26,5 +26,5 @@
      - Mean Squared Error
 
  ![Alt text](image/image.png)
-</detail>
+</details>
   
